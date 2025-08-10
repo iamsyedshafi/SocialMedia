@@ -1,2 +1,2 @@
 # SocialMedia
-Demo repo for socialmedia with Facebook and Instagram files.
+Example repo for socialmedia with Facebook and Instagram files
